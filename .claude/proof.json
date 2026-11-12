@@ -1,0 +1,6 @@
+{
+  "checks": [
+    { "name": "types", "run": "npx tsc -b" },
+    { "name": "lint", "run": "npm run lint" }
+  ]
+}

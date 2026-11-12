@@ -1,0 +1,32 @@
+{
+  "name": "Campus Folio — Anchor University Lagos",
+  "short_name": "Campus Folio",
+  "description": "Book verified Anchor University students for tutoring, design, tech help and everyday campus runs.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf9fb",
+  "theme_color": "#321230",
+  "categories": ["education", "productivity", "shopping"],
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
