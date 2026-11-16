@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Student services marketplace for Anchor University Lagos, with a public landing page, demo auth and a routed student dashboard.",
+  "contributors": [
+    { "name": "Onyema Marvellous" },
+    { "name": "Claude" }
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -11,7 +16,8 @@
   },
   "dependencies": {
     "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
