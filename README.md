@@ -7,6 +7,9 @@ across campus.
 The app now has a public **landing page**, a demo **login / signup** flow and a
 routed **student dashboard** with an activity log.
 
+See [`docs/UPDATE.md`](./docs/UPDATE.md) for the full list of this update and
+[`docs/README.md`](./docs/README.md) for the docs index.
+
 ## Routes
 
 | Route                 | What it does                                                |
